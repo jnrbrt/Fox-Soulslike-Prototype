@@ -2,7 +2,7 @@
 
 Welcome to my gameplay design code portfolio! This repository showcases the core logical systems behind my Souls-like Action RPG prototype, developed in Unity (C#). 
 
-**[Click Here to Watch the Gameplay Design Showreel on YouTube]( IDE_ILLESZD_A_YOUTUBE_LINKEDET )**
+**[Click Here to Watch the Gameplay Design Showreel on YouTube]( https://www.youtube.com/watch?v=3GjDnVGtlpk )**
 
 ## About This Repository
 As a Computer Science MSc student with a passion for game design, my focus in this project was creating scalable, robust, and designer-friendly systems. Rather than uploading the entire gigabyte-sized Unity project, I have curated the three most complex and fundamental scripts that drive the game's mechanics.
